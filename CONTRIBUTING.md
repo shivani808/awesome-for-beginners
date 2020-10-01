@@ -1,6 +1,7 @@
-# Contribution Guidelines
-
+# Contribution Guidelines for beginners
+This guidelines are given for the beginners so that they can understand the instructions properly.
 Please ensure your pull request adheres to the following guidelines:
+Following instructions to be followed:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
